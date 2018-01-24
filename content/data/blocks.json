@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "label": "Block 1",
+    "context_id": 1
+  },
+  {
+    "id": 2,
+    "label": "Block 2",
+    "context_id": 1
+  }
+]
