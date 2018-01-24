@@ -1,1 +1,0 @@
-{"blocks":[{"id":1,"label":"Block 1","context_id":1}],"fields":[{"id":1,"type":"content","label":"Prop 1","block_id":null,"reference_id":null},{"label":"Content","type":"reference","id":1516835552,"block_id":1516835540,"reference_id":"blocks_1"}],"contexts":[{"id":1,"label":"Context 1"}]}
